@@ -1,0 +1,11 @@
+{
+	"name": "q2a-password-hints",
+	"description": "Provides a basic information for displaying passwords charecters",
+	"version": "1.0",
+	"date": "2020-03-17",
+	"author": "Abdul Kuddus",
+	"author_uri": "http://www.ask-ans.com",
+	"license": "free",
+	"min_q2a": "1.8",
+	"load_order": "after_db_init"
+}
