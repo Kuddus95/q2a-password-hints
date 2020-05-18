@@ -16,7 +16,7 @@ $field['note'] =
 
 Installation:
 -------------------------------------------------
-1. Download and extract the files to your plugins folder (e.g. `qa-plugins/ganbox-filter`).
+1. Download and extract the files to your plugins folder (e.g. `qa-plugins/q2a-password-hints`).
 2. Enter the admin panel of your website and enable this plugin.
 
 
