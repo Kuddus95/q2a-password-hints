@@ -7,10 +7,8 @@ Plugin for displaying additional information of user password during registratio
 The plugin supports switchable options in admin panel:
 
 Language information:
--------------------------------------------------
-Please insert your own language instead of english language if you need.
-In line 15th of file "my-layer.php" after 
-$field['note'] =  
+----------------------------------------------
+Dont translate this into your own language instead of english.
 
 'Password must contain 8 characters(1 Capital letter, 1 number and 1 special character) for better protection';
 
